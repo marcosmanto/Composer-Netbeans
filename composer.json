@@ -1,0 +1,15 @@
+{
+    "name": "vendor/php-project1",
+    "description": "Descrição do projeto PhpProject1.",
+    "authors": [
+        {
+            "name": "marcos.filho",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "kint-php/kint": "dev-master"
+    },
+    "require-dev": {
+    }
+}
